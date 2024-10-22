@@ -1,4 +1,9 @@
-# Phishing Simulation Checklist
+# Phishing Simulation Checklist -- Still Underdevelopment
+
+This repository contains a comprehensive checklist to help security teams run **ethical phishing simulations**. Phishing simulations are essential to educating employees, improving organizational security posture, and identifying vulnerabilities before attackers do. It's like a cybersecurity fire drill – but with less smoke and more sneaky emails!
+
+⚠️ **Caution**: This checklist is for **ethical use only**! If you're thinking about using this for nefarious purposes, just remember: karma’s like a phishing email – it’ll come back to bite you when you least expect it! 😎
+
 
 ## 1. Environment Setup
 
