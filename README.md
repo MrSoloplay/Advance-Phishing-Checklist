@@ -1,4 +1,5 @@
-# Phishing Simulation Checklist -- Still Underdevelopment
+# Phishing Simulation Checklist
+**(Underdevelopment)**
 
 This repository contains a comprehensive checklist to help security teams run **ethical phishing simulations**. Phishing simulations are essential to educating employees, improving organizational security posture, and identifying vulnerabilities before attackers do. It's like a cybersecurity fire drill – but with less smoke and more sneaky emails!
 
@@ -39,16 +40,16 @@ This repository contains a comprehensive checklist to help security teams run **
 ## 3. Email Service Setup
 - [ ] Microsoft 365 Email Essentials (Recommended)
 - [ ] Professional Email (e.g., G Suite Business Emails)
-- [ ] Optional: Self- [ ]Hosted Email Servers for more customization
+- [ ] Optional: Self-Hosted Email Servers for more customization
 
 ---
 
 ## 4. Tools
 
 ### 4.1 Phishing Tools
-- [ ] **Gophish**: Open- [ ]source phishing framework
-- [ ] **Evilginx**: Advanced phishing platform
-- [ ] **Microsoft Attack Simulator**: Not recommended
+- [ ] **[Gophish](https://getgophish.com/)**: Open-source phishing framework
+- [ ] **[Evilginx](https://github.com/kgretzky/evilginx2)**: Advanced phishing platform
+- [ ] **Microsoft Attack Simulator**: Its your choice. :)
 - [ ] **PhishMe**: For realistic phishing templates
 - [ ] **SET (Social Engineering Toolkit)**: For advanced attacks
 
@@ -94,7 +95,7 @@ This repository contains a comprehensive checklist to help security teams run **
 
 ---
 
-## 6. Post- [ ]Simulation Analysis
+## 6. Post-Simulation Analysis
 - [ ] **Employee Feedback**: Gather feedback via surveys to assess awareness and responses
 - [ ] **Lessons Learned**: Share findings and security recommendations with the organization
 - [ ] **Policy Review**: Update email and internet security policies based on outcomes
