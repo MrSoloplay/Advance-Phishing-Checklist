@@ -61,9 +61,9 @@ This repository contains a comprehensive checklist to help security teams run **
 - [ ] Finalize the domain as per the simulation's requirements
 - [ ] Domain and IP whitelisting on ESG (Email Security Gateway) to ensure phishing emails are not blocked
 - [ ] Add the simulation email domain to the organization's SPAM policy and apply a transport rule to route phishing emails to target users
-- [ ] Whitelist IP addresses of the phishing server in the organization's anti- [ ]spam policy
+- [ ] Whitelist IP addresses of the phishing server in the organization's anti-spam policy
 - [ ] Whitelist the domain on the Web Content Filter for landing page accessibility
-- [ ] **Timeframe Consideration**: Run the simulation during low- [ ]activity business hours
+- [ ] **Timeframe Consideration**: Run the simulation during low-activity business hours
 - [ ] Obtain a predefined target list: Ensure employees are unaware of the simulation specifics
 - [ ] Test email rendering across email clients (Outlook, Gmail, etc.)
 - [ ] Align email templates with the tone of typical organizational emails
