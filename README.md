@@ -8,7 +8,7 @@ This repository contains a comprehensive checklist to help security teams run **
 
 ## 1. Environment Setup
 
-### 1.1 Cloud Machine Setup
+### 1.1 Cloud Machine
 - **Recommended Operating System**: 
   - [ ] Linux (Preferred)
   - [ ] Windows (Optional)
