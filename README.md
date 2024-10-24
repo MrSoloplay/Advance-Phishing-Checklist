@@ -30,9 +30,9 @@ This repository contains a comprehensive checklist to help security teams run **
 - [ ] Optional: Disposable Domains or Subdomains to avoid business domain blacklisting
 
 ### 2.2 DNS Records Setup (Necessary)
-- [ ] SPF
-- [ ] DMARC
-- [ ] DKIM
+- [ ] [SPF](https://easydmarc.com/tools/spf-record-generator)
+- [ ] [DMARC](https://easydmarc.com/tools/dmarc-record-generator )
+- [ ] DKIM: Email & collaboration > Threat policies > Email authentication settings.
 - [ ] Optional: Custom DNS records (A, CNAME, MX) for specific email needs
 
 --- 
@@ -47,7 +47,7 @@ This repository contains a comprehensive checklist to help security teams run **
 ## 4. Tools
 
 ### 4.1 Phishing Tools
-- [ ] **[Gophish](https://getgophish.com/)**: Open-source phishing framework
+- [ ] **[Gophish]([https://getgophish.com/](https://github.com/MrSoloplay/Advance-Phishing-Checklist/blob/main/Gophish_Checklist.md))**: Open-source phishing framework
 - [ ] **[Evilginx](https://github.com/kgretzky/evilginx2)**: Advanced phishing platform
 - [ ] **Microsoft Attack Simulator**: Its your choice. :)
 - [ ] **PhishMe**: For realistic phishing templates
