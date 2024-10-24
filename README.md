@@ -47,7 +47,7 @@ This repository contains a comprehensive checklist to help security teams run **
 ## 4. Tools
 
 ### 4.1 Phishing Tools
-- [ ] **[Gophish]([https://getgophish.com/](https://github.com/MrSoloplay/Advance-Phishing-Checklist/blob/main/Gophish_Checklist.md))**: Open-source phishing framework
+- [ ] **[Gophish](https://github.com/MrSoloplay/Advance-Phishing-Checklist/blob/main/Gophish_Checklist.md)**: Open-source phishing framework
 - [ ] **[Evilginx](https://github.com/kgretzky/evilginx2)**: Advanced phishing platform
 - [ ] **Microsoft Attack Simulator**: Its your choice. :)
 - [ ] **PhishMe**: For realistic phishing templates
